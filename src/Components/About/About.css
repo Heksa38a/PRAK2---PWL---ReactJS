@@ -1,0 +1,21 @@
+  
+.about {
+    background-color: whitesmoke;
+    font-size: 1.1em;
+  }
+  
+  .profile {
+    max-width: 18em;
+  }
+  
+  .my-details {
+    background-color: rgba(202, 172, 172, 0.747);
+  }
+ 
+  
+  .about-section{
+    font-size: 3em;
+    font-weight: 500;
+    color: #bfe33e;
+  }
+  
